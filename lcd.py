@@ -123,3 +123,4 @@ elif len(sys.argv) > 2:
     print('Too many arguements')
 elif len(sys.argv) == 2:
     print_num_lcd(sys.argv[1])
+    
